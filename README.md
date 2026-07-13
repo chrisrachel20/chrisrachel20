@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Senior So0ware Engineer with 9+ years delivering high-performance web and mobile applica>ons across digital<br>banking, insurance, fitness tech, and enterprise plaBorms. Expert in React, Next.js, React Na>ve, and TypeScript — with a strong<br>track record of leading cross-func>onal teams, architec>ng scalable UI systems, driving performance op>misa>ons, and shipping<br>measurable business outcomes.<br>
+Results-driven Senior Software Engineer with 9+ years delivering high-performance web and mobile applica>ons across digital<br>banking, insurance, fitness tech, and enterprise plaBorms. Expert in React, Next.js, React Na>ve, and TypeScript — with a strong<br>track record of leading cross-func>onal teams, architec>ng scalable UI systems, driving performance op>misa>ons, and shipping<br>measurable business outcomes.<br>
 
 
 ## 🌐 Socials:
